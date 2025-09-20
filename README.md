@@ -1,4 +1,4 @@
-# 🛒 Shoplifting Detection System (Video Classification + Deployment)  
+# 🛒 Shoplifting Detection System 
 
 An **AI-powered video surveillance system** that detects shoplifting activities using **deep learning**.  
 This project leverages **video classification with MobileNetV2** and **sequence modeling** to analyze surveillance footage, enabling real-time detection and prevention of retail theft.  
