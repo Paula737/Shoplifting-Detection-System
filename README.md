@@ -60,8 +60,10 @@ This system processes CCTV video streams and automatically classifies behavior i
 </p>  
 
 ---
+## 🔗 Linkedin Post  
+- 📢 [View my LinkedIn post about this project](https://www.linkedin.com/posts/paula-hanna-naguib_shoplifting-detection-project-ai-123456789)
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 ✨ 𝑬𝒏𝒈. 𝒫𝒶𝓊𝓁𝒶 𝐻𝒶𝓃𝓃𝒶 𝒩𝒶𝑔𝓊𝒾𝒷 ✨
 
